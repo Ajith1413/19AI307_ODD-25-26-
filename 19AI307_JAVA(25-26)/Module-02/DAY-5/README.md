@@ -21,8 +21,8 @@ To write a Java program that defines a class Calculator with one non-static meth
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: MOONESH P
-RegisterNumber: 212223230126
+Developed by: AJITH KUMAR A
+RegisterNumber: 212223230009
 */
 ```
 
